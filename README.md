@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flyingalex
-- 👀 I’m interested in JS/HTML/CSS, rust, elixir
+- 👀 I’m interested in JS(React/Nextjs)/HTML/CSS, rust, elixir
 - 🌱 I’m currently learning rust
 
 <!---
